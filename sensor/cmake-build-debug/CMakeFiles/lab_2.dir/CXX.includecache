@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/monael-robaiy/Desktop/sensor/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+
